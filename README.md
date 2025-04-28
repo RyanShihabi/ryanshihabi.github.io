@@ -1,3 +1,3 @@
 # Portfolio Website
 
-## Includes all projects and recent work experience
+Includes all projects and recent work experience
